@@ -1,6 +1,15 @@
-# curso_website_html_css_js_portifolio, ministrado por João Carlos 
-Website completo com HTML, CSS e JS / Portifólio do desenvolvedor.
+# Curso de Website completo com HTML, CSS e JS / Portifólio do desenvolvedor.
 
 ## Tarefas 
 
 O controle das tarefas desse projeto será realizado no GitHub
+
+## Icones 
+
+:package: Nova funcionalidade
+:up: Atualização
+:beatle: Correção de bug
+:checkered_flag: Release
+
+
+Curso Ministrado por João Carlos.  
