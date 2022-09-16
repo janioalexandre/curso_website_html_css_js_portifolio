@@ -4,12 +4,13 @@
 
 O controle das tarefas desse projeto será realizado no GitHub
 
-## Icones 
+## Ícones 
 
-:package: Nova funcionalidade
-:up: Atualização
-:beatle: Correção de bug
-:checkered_flag: Release
+- :package: nova funcionalidade
+- :up: atualização
+- :beetle: correção de bug
+- :checkered_flag: release
 
+##
 
 Curso Ministrado por João Carlos.  
